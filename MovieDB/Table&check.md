@@ -1,4 +1,6 @@
 # 테이블 생성문제
+![bank](https://github.com/secgyu/Database/blob/main/MovieDB/MovieDB.png)
+
 1️⃣
 > 주키 선언과 참조 무결성 제약을 포함하여 Company 테이블을 위한 CREATE TABLE 문장을 작성하여라.
 ```sql
