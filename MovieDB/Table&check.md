@@ -12,7 +12,7 @@ CREATE TABLE Company (
     CONSTRAINT fk_president FOREIGN KEY (President) REFERENCES Member(NAME)
 );
 ```
-<br/r>
+<br/>
 
 # 제약 문제
 
@@ -27,7 +27,7 @@ CHECK (YEAR < 1985 OR
 );
 ```
 
-<br/r>
+<br/>
 
 3️⃣
 
