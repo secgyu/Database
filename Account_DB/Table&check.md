@@ -1,4 +1,5 @@
 # 테이블 생성문제
+![bank](https://github.com/secgyu/Database/blob/main/Account_DB/BankingDB.png)
 1️⃣
 > 주키 및 두 개의 외래키 선언을 포함하여 Loan 테이블을 생성하기 위한 CREATE TABLE 문장을 작성하여라.  
    각 애트리뷰트의 의미에 맞게 타입을 적절하게 선택해야 한다.
